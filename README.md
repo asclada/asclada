@@ -1,6 +1,6 @@
 - 👋 Olá, me chamo Lucas.
 - Estudo desenvolvimento web desde 2020 e sou fascinado por isso.
-- Sei HTML, CSS e Javascript.
+- Experiência em HTML, CSS e Javascript.
 - Atualmente estou aprendendo ReactJS e NodeJS!
 
 <!---
