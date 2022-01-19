@@ -1,7 +1,8 @@
 - 👋 Olá, me chamo Lucas.
-- Estudo desenvolvimento web desde 2020 e sou fascinado por isso.
+- Sou fascinado por design e tecnologia
 - Experiência em HTML, CSS e Javascript.
-- Atualmente estou aprendendo Typescript, ReactJS e NodeJS!
+- Já tive contato com Typescript, ReactJS e NodeJS.
+- Atualmente estou cursando UX Design na EBAC e pretendo me especializar nessa área!
 
 <!---
 asclada/asclada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
