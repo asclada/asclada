@@ -1,17 +1,31 @@
-- 👋 Olá, me chamo Lucas.
-- Sou fascinado por design e tecnologia
-- Experiência em HTML, CSS e Javascript.
-- Já tive contato com Typescript, ReactJS e NodeJS.
-- Atualmente estou cursando UX Design na EBAC e pretendo me especializar nessa área!
+### 👋 Olá, me chamo Lucas
 
-## 🚀 Projetos
+Desenvolvedor web em formação (ADS - Unifatecie), focado em Front-end/Full Stack com React, Next.js e TypeScript.
 
-### Vibe Digital
-Site institucional e landing page para a Vibe Digital — automação de atendimento no WhatsApp e sites profissionais para pequenas e médias empresas, com agentes de IA de triagem, agendamento e follow-up. Construído com Next.js, React e Tailwind CSS.
+Meu processo de desenvolvimento combina **Plan Mode**, **Spec-Driven Development (SDD)** e **Test-driven development (TDD)** — planejo a arquitetura antes de codar, escrevo specs claras e valido cada etapa com testes. Uso IA (Claude Code) como parte real do fluxo de trabalho, não como atalho: isso me permitiu entender arquitetura de ponta a ponta na prática, enquanto aprofundo os conceitos de cada camada.
 
-🔗 **[Ver o site no ar](https://website-vibe-digital.vercel.app)**
+🔭 Buscando minha primeira oportunidade como **Desenvolvedor Front-end / Full Stack Júnior** — aberto a conversar e aprender.
 
-<!---
-asclada/asclada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🚀 Projeto em destaque
+
+**Sistema completo para escritório de advocacia** — redesign institucional + CRM + agente de IA de triagem de leads (migração WhatsApp → Web)
+- Front-end com Next.js, React e TypeScript
+- Banco de dados PostgreSQL/Supabase
+- Automação de workflows com n8n
+- Desenvolvido com Plan Mode + SDD + TDD, do planejamento aos testes
+
+🔗 [Ver mais projetos](https://github.com/asclada?tab=repositories)
+
+---
+
+### 🛠️ Stack
+
+`JavaScript` `TypeScript` `React` `Next.js` `Node.js` `PostgreSQL` `Supabase` `Redis` `Git/GitHub` `Docker` `Vercel` `n8n` `IA Generativa (Gemini, Claude)`
+
+---
+
+### 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/lucasnsantana/) · Brasil · Inglês avançado
